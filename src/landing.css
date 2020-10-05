@@ -1,0 +1,64 @@
+@media screen and (max-width: 2000px) {
+    .body {
+      background-color: #060321;
+      height: 100vh;
+      width: 100%;
+    }
+  }
+
+@media screen and (max-width: 1500px) {
+    .body {
+      background-color: #060321;
+      height: 820px;
+      width: 100%;
+    }
+  }
+
+@media screen and (max-width: 600px) {
+    .body {
+        background-color: #060321;
+        height: 1520px;
+        width: 100%;
+    }
+    .small-screen {
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+}
+
+.logo {
+    height: 150px;
+    margin-top: 20px;
+    float: center;
+}
+
+.card-confirmed {
+    background-color: rgba(194, 23, 0, 0.5) !important;
+    color: white;
+}
+
+.card-active {
+    background-color: rgba(255, 183, 0, 0.6) !important;
+    color: white;
+}
+
+.card-recovered {
+    background-color: rgba(0, 255, 0, 0.5) !important;
+    color: white;
+}
+
+.card-deaths {
+    background-color: rgba(81, 87, 83, 0.5) !important;
+    color: white;
+}
+
+.card-modified-title {
+    font-weight: bold;
+    color: #dddedc;
+}
+
+.blank_row {
+    height: 10px !important;
+    background-color: #060321;
+}
+
