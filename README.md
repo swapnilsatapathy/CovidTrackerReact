@@ -7,13 +7,13 @@ A simple light-weight COVID-19 tracker app built using ReactJS to monitor the cu
 
 The application is running live on the below URL.
 
-Click to see live running application [https://swapnilsatapathy.github.io/CovidTrackerReact/] (https://swapnilsatapathy.github.io/CovidTrackerReact/)
+Click to see live running application [https://swapnilsatapathy.github.io/CovidTrackerReact/](https://swapnilsatapathy.github.io/CovidTrackerReact/)
 
 ## Prerequisites
 
 ### Install NodeJS
 
-Refer to [https://nodejs.org/en/] (https://nodejs.org/en/) to install NodeJS
+Refer to [https://nodejs.org/en/](https://nodejs.org/en/) to install NodeJS
 
 ## Clone and Run the Application locally
 
